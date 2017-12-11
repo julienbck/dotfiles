@@ -33,7 +33,7 @@
 
   useconfigonly = true
 	email = julien.bock@decathlon.com
-	name = JULIEN BOCK
+	name = Julien BOCK
 [filter "lfs"]
 	clean = git-lfs clean -- %f
 	smudge = git-lfs smudge -- %f
